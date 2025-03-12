@@ -1,0 +1,3 @@
+pip install app
+import sys
+print(sys.path)
